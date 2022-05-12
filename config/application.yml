@@ -1,0 +1,17 @@
+development:
+  SITE_TITLE: API Authentication
+  SERVER_URL: ''
+  DB_HOST: localhost
+  DB_USERNAME: postgres
+  DB_PASSWORD: postgres
+  DB_NAME: rails-api-authentication
+  REDIS_URL: redis://localhost:6379
+  MAILER_DOMAIN: http://localhost:3000
+  SENDGRID_API_KEY:
+  SMTP_ADDRESS: smtp.sendgrid.net
+  DEFAULT_FROM_EMAIL_ADDRESS: no-reply@my-app.com
+  SENTRY_DSN: ''
+  JOB_MONITOR_USERNAME: admin
+  JOB_MONITOR_PASSWORD: admin
+  ADMIN_EMAIL: 'admin@example.com'
+  ADMIN_PASSWORD: 'password'
